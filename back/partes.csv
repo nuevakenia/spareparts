@@ -1,0 +1,93 @@
+Nombre componente,Categoría,Tipo de componente,Automático
+Motor,Sistema mecánico,Mecánico,No
+Transmisión,Sistema de transmisión,Mecánico,Sí
+Sistema de escape,Sistema de escape,Mecánico,No
+Sistema de admisión de aire,Sistema de admisión,Mecánico,No
+Radiador,Sistema de enfriamiento,Mecánico,No
+Sistema de enfriamiento,Sistema de enfriamiento,Mecánico,No
+Alternador,Sistema eléctrico,Eléctrico,No
+Batería,Sistema eléctrico,Eléctrico,No
+Sistema de encendido,Sistema eléctrico,Eléctrico,No
+Sistema de combustible,Sistema de combustible,Mecánico/Eléctrico,No
+Bomba de combustible,Sistema de combustible,Mecánico/Eléctrico,No
+Inyectores de combustible,Sistema de combustible,Mecánico/Eléctrico,No
+Filtro de aire,Sistema de combustible,Mecánico,No
+Filtro de combustible,Sistema de combustible,Mecánico,No
+Sistema de dirección asistida,Sistema de dirección,Mecánico/Eléctrico,Sí
+Caja de cambios,Sistema de transmisión,Mecánico,Sí
+Eje de transmisión,Sistema de transmisión,Mecánico,Sí
+Suspensión delantera,Sistema de suspensión,Mecánico,No
+Suspensión trasera,Sistema de suspensión,Mecánico,No
+Sistema de frenos,Sistema de frenos,Mecánico,Sí
+Sistema de dirección,Sistema de dirección,Mecánico,Sí
+Sistema de escape,Sistema de escape,Mecánico,No
+Ruedas y neumáticos,Sistema de ruedas,Mecánico,No
+Sistema de luces,Sistema eléctrico,Eléctrico,No
+Sistema de climatización,Sistema eléctrico,Eléctrico,No
+Sensor de oxígeno,Sistema eléctrico,Eléctrico,No
+Sensor de velocidad,Sistema eléctrico,Eléctrico,No
+Sensor de temperatura del motor,Sistema eléctrico,Eléctrico,No
+Sensor de posición del acelerador,Sistema eléctrico,Eléctrico,No
+Sensor de presión de aceite,Sistema eléctrico,Eléctrico,No
+Sensor de posición del cigüeñal,Sistema eléctrico,Eléctrico,No
+Sensor de posición del árbol de levas,Sistema eléctrico,Eléctrico,No
+Sensor de posición del acelerador,Sistema eléctrico,Eléctrico,No
+Sensor de presión de aceite,Sistema eléctrico,Eléctrico,No
+Sensor de temperatura del líquido refrigerante,Sistema eléctrico,Eléctrico,No
+Unidad de control del airbag,Sistema de seguridad,Eléctrico,No
+Sistema de control de tracción,Sistema de seguridad,Eléctrico,No
+Sistema de control de estabilidad,Sistema de seguridad,Eléctrico,No
+Sistema de monitoreo de presión de neumáticos,Sistema de seguridad,Eléctrico,No
+Cinturones de seguridad y pretensores,Sistema de seguridad,Mecánico/Eléctrico,No
+Estructura de carrocería,Chasis,Estructural,No
+Paragolpes delantero,Chasis,Estructural,No
+Paragolpes trasero,Chasis,Estructural,No
+Capó,Chasis,Estructural,No
+Puertas,Chasis,Estructural,No
+Guardabarros,Chasis,Estructural,No
+Luneta trasera,Chasis,Estructural,No
+Parabrisas,Chasis,Estructural,No
+Ventanas,Chasis,Estructural,No
+Retrovisores laterales,Chasis,Estructural,No
+Asientos,Interior,Mecánico,No
+Volante,Interior,Mecánico,No
+Pedales,Interior,Mecánico,No
+Palanca de cambios,Interior,Mecánico,Sí
+Panel de instrumentos,Interior,Eléctrico,No
+Sistema de audio,Interior,Eléctrico,No
+Aire acondicionado,Interior,Eléctrico,No
+Sistema de navegación,Interior,Eléctrico,No
+Cerraduras de puertas,Interior,Eléctrico,No
+Elevalunas eléctricos,Interior,Eléctrico,No
+Limpiaparabrisas,Exterior,Eléctrico,No
+Limpialuneta trasera,Exterior,Eléctrico,No
+Faros delanteros,Exterior,Eléctrico,No
+Faros traseros,Exterior,Eléctrico,No
+Luces de freno,Exterior,Eléctrico,No
+Luces intermitentes,Exterior,Eléctrico,No
+Luz de marcha atrás,Exterior,Eléctrico,No
+Espejos retrovisores eléctricos,Exterior,Eléctrico,No
+Antena,Exterior,Eléctrico,No
+Sensor de lluvia,Exterior,Eléctrico,No
+Sensor de luz,Exterior,Eléctrico,No
+Control de crucero,Interior,Eléctrico,Sí
+Sistema de arranque sin llave,Interior,Eléctrico,Sí
+Sistema de monitoreo de punto ciego,Exterior,Eléctrico,No
+Sensor de estacionamiento,Exterior,Eléctrico,No
+Sistema de asistencia al estacionamiento,Exterior,Eléctrico,No
+Sistema de alerta de colisión,Sistema de seguridad,Eléctrico,No
+Control de tracción,Sistema de seguridad,Eléctrico,No
+Control de estabilidad,Sistema de seguridad,Eléctrico,No
+Control de presión de neumáticos,Sistema de seguridad,Eléctrico,No
+Sistema de cierre centralizado,Interior,Eléctrico,No
+Sistema de alarma,Interior,Eléctrico,No
+Frenos ABS,Sistema de frenos,Eléctrico,Sí
+Distribución electrónica de frenado (EBD),Sistema de frenos,Eléctrico,Sí
+Asistente de frenado (BA),Sistema de frenos,Eléctrico,Sí
+Airbags,Sistema de seguridad,Eléctrico,No
+Control de presión de aceite,Sistema eléctrico,Eléctrico,No
+Control de temperatura del motor,Sistema eléctrico,Eléctrico,No
+Sensor de nivel de combustible,Sistema eléctrico,Eléctrico,No
+Sensor de nivel de líquido de frenos,Sistema eléctrico,Eléctrico,No
+Sensor de nivel de líquido de dirección asistida,Sistema eléctrico,Eléctrico,No
+Sensor de nivel de líquido de refrigerante,Sistema eléctrico,Eléctrico,No
